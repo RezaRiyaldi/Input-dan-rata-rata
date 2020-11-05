@@ -7,4 +7,4 @@ for i in range(n):
     rata = jumlah/n
 print(f"Rata - rata = {rata}")
 
-# by @boykucayy_
+# by @boy.kucayy_
