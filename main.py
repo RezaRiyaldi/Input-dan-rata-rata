@@ -6,3 +6,5 @@ for i in range(n):
     jumlah += x
     rata = jumlah/n
 print(f"Rata - rata = {rata}")
+
+# by @boykucayy_
